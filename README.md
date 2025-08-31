@@ -45,7 +45,7 @@
 
 ## 项目简介
 
-这是一个专业的NTP反射攻击测试工具，支持跨平台运行（Windows/Linux/macOS），用于测试网络设备对NTP反射攻击的防护能力。该工具支持NTP协议的7种工作模式和各种控制命令，能够模拟不同类型的NTP反射攻击。
+这是一个简单的NTP反射攻击测试工具，支持跨平台运行（Windows/Linux/macOS），用于测试网络设备对NTP反射攻击的防护能力。该工具支持NTP协议的7种工作模式和各种控制命令，能够模拟不同类型的NTP反射攻击。
 
 ## 功能特点
 
@@ -78,7 +78,7 @@
 1. 克隆或下载项目文件：
    ```
    git clone <repository-url>
-   cd ntp-reflector
+   cd NTP-reflector
    ```
 
 2. 确保`ntp_packets.py`文件存在于同一目录
