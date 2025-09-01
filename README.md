@@ -77,7 +77,7 @@
 
 1. 克隆或下载项目文件：
    ```
-   git clone <repository-url>
+   git clone https://github.com/XChen446/NTP-reflector.git
    cd NTP-reflector
    ```
 
@@ -134,7 +134,7 @@ python ntp_reflector.py --target test.com -f ntp.txt --verbose
 | `--test-before-attack TEST` | 攻击前测试NTP服务器支持的模式 | true |
 | `--stats-interval SEC` | 统计信息输出间隔(秒) | 5 |
 | `--verbose` | 详细输出模式 | false |
-| `-h`, `--help` | 显示帮助信息 | 无 |
+| `-h`, `--help` | 显示更详细的帮助信息 | 无 |
 
 ## NTP模式说明
 
